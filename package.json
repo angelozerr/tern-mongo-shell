@@ -1,0 +1,27 @@
+{
+  "name": "tern-mongo-shell",
+  "license": "MIT",
+  "version": "0.1.0",
+  "main": "mongo-shell.js",
+  "author": "Angelo ZERR <angelo.zerr@gmail.com>",
+  "description": "A Tern plugin adding support for MongoDB Shell.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angelozerr/tern-mongo-shell.git"
+  },
+  "scripts": {
+    "test": "node ./test/all.js"
+  },    
+  "dependencies": {
+    "tern": "^0.7.0",
+    "acorn": "~0.5.0",
+    "mongodb": "2.0.9"
+  },  
+  "devDependencies": { 
+  	"test": ">=0.0.5" 
+  },  
+  "keywords": [
+    "tern",
+    "mongo shell"
+  ]
+}
