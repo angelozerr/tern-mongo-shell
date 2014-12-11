@@ -10,3 +10,7 @@ The basic structure of the project is given in the following way:
 
 * `mongo-shell.js` the tern plugin.
 * `demos/` demos with express tern plugin which use CodeMirror.
+
+## Links
+
+See also <https://github.com/Nodeclipse/nodeclipse-1/tree/master/org.nodeclipse.mongodb>
